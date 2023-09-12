@@ -1,23 +1,23 @@
 {
-    "fileName": "ExampleVendorJson.json",
-    "name": "ExampleVendorDep",
+    "fileName": "AutoBuilderLib.json",
+    "name": "AutoBuilderLib",
     "version": "0.0.1",
     "uuid": "811b13c9-a73b-45bd-9020-bbd186d98c43",
     "mavenUrls": [
-        ":q"
+        "https://me6262.github.io/AutoBuilderLib"
     ],
-    "jsonUrl": "InsertSomeUrlHere",
+    "jsonUrl": "https://me6262.github.io/AutoBuilderLib.json",
     "javaDependencies": [
         {
-            "groupId": "com.vendor.frc",
-            "artifactId": "Vendor-java",
+            "groupId": "org.frc238.lib",
+            "artifactId": "AutoBuilderLib-java",
             "version": "0.0.1"
         }
     ],
     "jniDependencies": [
         {
-            "groupId": "com.vendor.frc",
-            "artifactId": "Vendor-driver",
+            "groupId": "org.frc238.lib",
+            "artifactId": "AutoBuilderLib-driver",
             "version": "0.0.1",
             "skipInvalidPlatforms": true,
             "isJar": false,
@@ -34,10 +34,10 @@
     ],
     "cppDependencies": [
         {
-            "groupId": "com.vendor.frc",
-            "artifactId": "Vendor-cpp",
+            "groupId": "org.frc238.lib",
+            "artifactId": "AutoBuilderLib-cpp",
             "version": "0.0.1",
-            "libName": "Vendor",
+            "libName": "AutoBuilderLib",
             "headerClassifier": "headers",
             "sharedLibrary": false,
             "skipInvalidPlatforms": true,
@@ -52,10 +52,10 @@
             ]
         },
         {
-            "groupId": "com.vendor.frc",
-            "artifactId": "Vendor-driver",
+            "groupId": "org.frc238.lib",
+            "artifactId": "AutoBuilderLib-driver",
             "version": "0.0.1",
-            "libName": "VendorDriver",
+            "libName": "AutoBuilderLibDriver",
             "headerClassifier": "headers",
             "sharedLibrary": false,
             "skipInvalidPlatforms": true,
