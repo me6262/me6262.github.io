@@ -14,24 +14,6 @@
             "version": "0.0.1"
         }
     ],
-    "jniDependencies": [
-        {
-            "groupId": "org.frc238.lib",
-            "artifactId": "AutoBuilderLib-driver",
-            "version": "0.0.1",
-            "skipInvalidPlatforms": true,
-            "isJar": false,
-            "validPlatforms": [
-                "windowsx86-64",
-                "windowsx86",
-                "linuxarm64",
-                "linuxx86-64",
-                "linuxathena",
-                "linuxarm32",
-                "osxuniversal"
-            ]
-        }
-    ],
     "cppDependencies": [
         {
             "groupId": "org.frc238.lib",
