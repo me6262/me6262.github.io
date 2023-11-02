@@ -1,0 +1,22 @@
+@keyframes move-in {
+    from {
+        opacity: 4%;
+        position: top + 20vw;
+    }
+    to {opacity: 100%;
+        position: top;
+    }
+}
+
+.titlebar {
+    background-image: linear-gradient(bottom left to top right, blue, red);
+    font-size: 14px;
+    color: darkslategray;
+    position: top;
+    width: 100%;
+    animation-name: move-in;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    text-align: center;
+    
+}
