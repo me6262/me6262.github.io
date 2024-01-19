@@ -6,7 +6,7 @@
     "mavenUrls": [
         "https://me6262.github.io/builds/"
     ],
-    "jsonUrl": "https://me6262.github.io/AutoBuilderLib.json",
+    "jsonUrl": "https://me6262.github.io/AutoBuilderLib2024.json",
     "javaDependencies": [
         {
             "groupId": "org.frc238.lib",
