@@ -1,7 +1,7 @@
 {
     "fileName": "AutoBuilderLib.json",
     "name": "AutoBuilderLib",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "uuid": "811b13c9-a73b-45bd-9020-bbd186d98c43",
     "mavenUrls": [
         "https://me6262.github.io/builds/"
@@ -11,14 +11,14 @@
         {
             "groupId": "org.frc238.lib",
             "artifactId": "AutoBuilderLib-java",
-            "version": "0.0.1"
+            "version": "0.0.2"
         }
     ],
     "cppDependencies": [
         {
             "groupId": "org.frc238.lib",
             "artifactId": "AutoBuilderLib-cpp",
-            "version": "0.0.1",
+            "version": "0.0.2",
             "libName": "AutoBuilderLib",
             "headerClassifier": "headers",
             "sharedLibrary": false,
@@ -36,7 +36,7 @@
         {
             "groupId": "org.frc238.lib",
             "artifactId": "AutoBuilderLib-driver",
-            "version": "0.0.1",
+            "version": "0.0.2",
             "libName": "AutoBuilderLibDriver",
             "headerClassifier": "headers",
             "sharedLibrary": false,
