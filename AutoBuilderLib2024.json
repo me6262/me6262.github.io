@@ -1,8 +1,9 @@
 {
-    "fileName": "AutoBuilderLib.json",
+    "fileName": "AutoBuilderLib2024.json",
     "name": "AutoBuilderLib",
     "version": "0.0.2",
     "uuid": "811b13c9-a73b-45bd-9020-bbd186d98c43",
+    "frcYear": "2024",
     "mavenUrls": [
         "https://me6262.github.io/builds/"
     ],
